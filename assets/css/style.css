@@ -1313,10 +1313,10 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-.contact .info-box {
+.contact .info-box:hover {
   color: #444444;
   text-align: center;
-  box-shadow: 0 0 30px rgba(8, 56, 104, 0.6);
+  filter: drop-shadow(8px 8px 8px #000000);
   padding: 20px 0 30px 0;
   background: #fff0;
 }
