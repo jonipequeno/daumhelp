@@ -1242,6 +1242,9 @@
   .bx-cube:before {
     content: "\e9ef";
   }
+  .bx-jg:before {
+    content: url("../imgs/jogos\ educacionais.png");
+  }
   .bx-cube-alt:before {
     content: "\e9f0";
   }
@@ -2211,9 +2214,13 @@
   .bx-radio-circle-marked:before {
     content: "\eb32";
   }
+  .bx-tf:before {
+    content: url("../imgs/tarefa\ escolar.png");
+  }
   .bx-receipt:before {
     content: "\eb33";
-  }
+   }
+   
   .bx-rectangle:before {
     content: "\eb34";
   }
@@ -2351,6 +2358,9 @@
   }
   .bx-shekel:before {
     content: "\eb61";
+  }
+  .bx-material:before {
+    content: url("../imgs/material.png");
   }
   .bx-shield:before {
     content: "\eb62";
