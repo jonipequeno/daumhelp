@@ -2362,6 +2362,15 @@
   .bx-material:before {
     content: url("../imgs/material.png");
   }
+  .bx-banners:before {
+    content: url("../imgs/Banner.png");
+  }
+  .bx-slideb:before {
+    content: url("../imgs/vetor\ slide\ basico.png");
+  }
+  .bx-cartaz:before {
+    content: url("../imgs/vetor\ cartaz.png");
+  }
   .bx-shield:before {
     content: "\eb62";
   }
